@@ -1,0 +1,9 @@
+# Ignore EEGLAB installation folder
+eeglab14_1_2b/
+
+# Ignore all original-mat-file-names folders
+**/original-mat-file-names/
+
+# Ignore all structure.txt files
+**/structure.txt
+

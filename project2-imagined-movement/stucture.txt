@@ -1,0 +1,25 @@
+.
+├── BCIHW9.pdf
+├── LabInstruction9.pdf
+├── main.m
+├── MiniProject2.pdf
+├── MotorImageryCSP_Data_Run1_Day2.mat
+├── MotorImageryCSP_Data_Run1.mat
+├── MotorImageryCSP_Data_Run2_Day2.mat
+├── MotorImageryCSP_Data_Run2.mat
+├── MotorImageryCSP_Data_Run3_Day2.mat
+├── MotorImageryCSP_Data_Run3.mat
+├── MotorImageryCSP_Data_Run4_Day2.mat
+├── MotorImageryCSP_Data_Run4.mat
+├── real-names
+│   ├── MotorImageryCSP_Data_Run1_Day2.mat
+│   ├── MotorImageryCSP_Data_Run1.mat
+│   ├── MotorImageryCSP_Data_Run2_Day2.mat
+│   ├── MotorImageryCSP_Data_Run2.mat
+│   ├── MotorImageryCSP_Data_Run3_Day2.mat
+│   ├── MotorImageryCSP_Data_Run3.mat
+│   ├── MotorImageryCSP_Data_Run4_Day2.mat
+│   └── MotorImageryCSP_Data_Run4.mat
+└── stucture.txt
+
+2 directories, 21 files
