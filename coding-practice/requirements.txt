@@ -1,2 +1,6 @@
-matplotlib
 numpy
+scipy
+matplotlib
+pandas 
+h5py
+mne
