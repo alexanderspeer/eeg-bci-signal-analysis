@@ -4,3 +4,5 @@ matplotlib
 pandas 
 h5py
 mne
+ipympl
+PyQt5
