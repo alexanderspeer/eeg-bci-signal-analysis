@@ -6,3 +6,4 @@ h5py
 mne
 ipympl
 PyQt5
+scikit-learn
